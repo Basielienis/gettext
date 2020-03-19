@@ -10,3 +10,4 @@ of your application that should be possible to translate. By translating the
 strings into some other language and loading the new PO-file into the
 gettext database you can adapt your application for different languages.
 test edit
+new edit
